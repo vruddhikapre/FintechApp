@@ -1,0 +1,27 @@
+﻿@page
+@model FintechWebApp.Pages.FintechApp.MeanModel
+@{
+}
+<html>
+<head>
+    <title>My Page</title>
+</head>
+<body style="background-color:lightblue; color:black">
+    <br>
+    <h2> Analysing the Bills</h2>
+
+    @*Gets all the values from the Model.dictonary*@
+    <form method="GET">
+        <table>
+            <tr>
+                @*Displays mean from the dictonary *@
+                <td>Mean : @Model.dictionary?["Mean"]</td>
+
+            </tr>
+            
+        </table>
+        <p></p>
+
+    </form>
+</body>
+</html>

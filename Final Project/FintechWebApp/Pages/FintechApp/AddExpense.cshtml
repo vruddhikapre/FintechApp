@@ -1,0 +1,71 @@
+﻿@page
+@model FintechWebApp.Pages.FintechApp.AddExpenseModel
+@{
+}
+
+<!-- HTML page for create Fintech expenses -->
+<br>
+<h2>Add New Expense</h2>
+
+@if (@Model.errorMessage.Length > 0)
+{
+	<!-- Display error message if there is any -->
+	<div>@Model.errorMessage</div>
+}
+
+<form method="POST" onsubmit="handleSubmit(event) ">
+	<!-- Table to input expense details -->
+	<table>
+		<tr>
+			<td>Account Number</td>
+			<td><input type="text" name="accountnumber" value="@Model.monthly_expenses.Account_number"></td>
+		</tr>
+		<tr>
+			<td>Date</td>
+			<td><input type="text" name="date" value="@Model.monthly_expenses.Date"></td>
+		</tr>
+		<tr class="custom-select" style="width:200px;">
+			<td>Category</td>
+			<td>
+				<select name="Category" value="@Model.monthly_expenses.Category">
+					<option value="">Select category:</option>
+					<option value="Rent">Rent</option>
+					<option value="Electricity">Electricity</option>
+					<option value="Gas">Gas</option>
+					<option value="Utilities">Utilities</option>
+					<option value="Maintenance">Maintenance</option>
+					<option value="Grocery">Grocery</option>
+					<option value="Outdoor Activities">Outdoor Activities</option>
+					<option value="Recharge">Recharge</option>
+					<option value="Shopping">Shopping</option>
+					<option value="Electronic Purchase">Electronic Purchase</option>
+					<option value="Miscellaneous">Miscellaneous</option>
+				</select>
+			</td>
+		</tr>
+
+
+			
+		</tr>
+			<td>Expense (in $)</td>
+			<td><input type="text" name="expense" value="@Model.monthly_expenses.Expense"></td>
+		</tr>
+		
+	</table>
+	<p></p>
+
+	@if (@Model.successMessage.Length > 0)
+	{
+		<!-- Display success message if there is any -->
+		<div>@Model.successMessage</div>
+	}
+
+	<input type="submit" value="Add" class="btn btn-primary" />
+
+	<script>
+		function handleSubmit(event) {
+			alert("The expense has been added");
+		}
+	</script>
+
+</form>

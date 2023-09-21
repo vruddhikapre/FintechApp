@@ -1,0 +1,97 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = FintechWebApp
+build_property.RootNamespace = FintechWebApp
+build_property.ProjectDir = C:\Users\Vruddhi\OneDrive\Desktop\SPM final project\ACS_567_PW_G8\Final Project\FintechWebApp\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Vruddhi\OneDrive\Desktop\SPM final project\ACS_567_PW_G8\Final Project\FintechWebApp
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Vruddhi/OneDrive/Desktop/SPM final project/ACS_567_PW_G8/Final Project/FintechWebApp/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = SW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Vruddhi/OneDrive/Desktop/SPM final project/ACS_567_PW_G8/Final Project/FintechWebApp/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Vruddhi/OneDrive/Desktop/SPM final project/ACS_567_PW_G8/Final Project/FintechWebApp/Pages/ExpenseTracker.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXhwZW5zZVRyYWNrZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Vruddhi/OneDrive/Desktop/SPM final project/ACS_567_PW_G8/Final Project/FintechWebApp/Pages/FintechApp/AddExpense.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmludGVjaEFwcFxBZGRFeHBlbnNlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Vruddhi/OneDrive/Desktop/SPM final project/ACS_567_PW_G8/Final Project/FintechWebApp/Pages/FintechApp/Analyse.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmludGVjaEFwcFxBbmFseXNlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Vruddhi/OneDrive/Desktop/SPM final project/ACS_567_PW_G8/Final Project/FintechWebApp/Pages/FintechApp/CheckDeposit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmludGVjaEFwcFxDaGVja0RlcG9zaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Vruddhi/OneDrive/Desktop/SPM final project/ACS_567_PW_G8/Final Project/FintechWebApp/Pages/FintechApp/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmludGVjaEFwcFxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Vruddhi/OneDrive/Desktop/SPM final project/ACS_567_PW_G8/Final Project/FintechWebApp/Pages/FintechApp/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmludGVjaEFwcFxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Vruddhi/OneDrive/Desktop/SPM final project/ACS_567_PW_G8/Final Project/FintechWebApp/Pages/FintechApp/DeleteExpense.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmludGVjaEFwcFxEZWxldGVFeHBlbnNlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Vruddhi/OneDrive/Desktop/SPM final project/ACS_567_PW_G8/Final Project/FintechWebApp/Pages/FintechApp/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmludGVjaEFwcFxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Vruddhi/OneDrive/Desktop/SPM final project/ACS_567_PW_G8/Final Project/FintechWebApp/Pages/FintechApp/Mean.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmludGVjaEFwcFxNZWFuLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Vruddhi/OneDrive/Desktop/SPM final project/ACS_567_PW_G8/Final Project/FintechWebApp/Pages/FintechApp/MinAmount.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmludGVjaEFwcFxNaW5BbW91bnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Vruddhi/OneDrive/Desktop/SPM final project/ACS_567_PW_G8/Final Project/FintechWebApp/Pages/FintechApp/TransferFunds.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmludGVjaEFwcFxUcmFuc2ZlckZ1bmRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Vruddhi/OneDrive/Desktop/SPM final project/ACS_567_PW_G8/Final Project/FintechWebApp/Pages/FintechApp/WithdrawMoney.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmludGVjaEFwcFxXaXRoZHJhd01vbmV5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Vruddhi/OneDrive/Desktop/SPM final project/ACS_567_PW_G8/Final Project/FintechWebApp/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Vruddhi/OneDrive/Desktop/SPM final project/ACS_567_PW_G8/Final Project/FintechWebApp/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Vruddhi/OneDrive/Desktop/SPM final project/ACS_567_PW_G8/Final Project/FintechWebApp/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Vruddhi/OneDrive/Desktop/SPM final project/ACS_567_PW_G8/Final Project/FintechWebApp/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Vruddhi/OneDrive/Desktop/SPM final project/ACS_567_PW_G8/Final Project/FintechWebApp/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Vruddhi/OneDrive/Desktop/SPM final project/ACS_567_PW_G8/Final Project/FintechWebApp/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-0bc3dgr0wy

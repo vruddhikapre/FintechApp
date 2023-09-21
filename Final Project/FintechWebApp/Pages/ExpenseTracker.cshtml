@@ -1,0 +1,44 @@
+﻿@page
+@model FintechWebApp.Pages.ExpenseTrackerModel
+@{
+    ViewData["Title"] = "Expense Tracker";
+}
+<br>
+<h2> List of All Expenses </h2>
+
+<a class='btn btn-primary btn-sm' href='/FintechApp/AddExpense'> New Expense</a>
+<a class="btn btn-primary btn-sm" href="/FintechApp/Analyse"> Data Analysis</a>
+<a class="btn btn-primary btn-sm" href="/FintechApp/Mean"> Mean</a>
+<a class="btn btn-primary btn-sm" href="/FintechApp/MinAmount"> Min Amount</a>
+<table class="table">
+	<thead>
+		<tr>
+			<th>Account Number</th>
+			<th>Date</th>
+			<th>Category</th>
+			<th>Expense</th>
+			<th></th>
+		</tr>
+	</thead>
+	<tbody>
+		@foreach (var item in Model.monthly_expenses)
+		{
+			<tr>
+				<td> @item.Account_number</td>
+				<td> @item.Date</td>
+				<td> @item.Category</td>
+				<td> @item.Expense</td>
+
+				<td>
+					<a class="btn btn-primary btn-sm" href="/FintechApp/Edit?id=@item.Id">Edit</a>
+					<a class="btn btn-danger btn-sm" href="/FintechApp/DeleteExpense?id=@item.Id">Delete</a>
+				</td>
+			</tr>
+		}
+	</tbody>
+</table>
+
+
+
+
+

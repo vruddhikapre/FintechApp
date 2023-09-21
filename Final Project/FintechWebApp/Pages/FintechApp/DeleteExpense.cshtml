@@ -1,0 +1,37 @@
+﻿@page
+@model FintechWebApp.Pages.FintechApp.DeleteExpenseModel
+@{
+}
+
+<!-- HTML page for Deleting Expense -->
+<br>
+<h2>Delete Account</h2>
+
+@if (@Model.errorMessage.Length > 0)
+{
+	<div>@Model.errorMessage</div>
+}
+
+
+<!-- Display a form for deleting the account -->
+<form method="POST" onsubmit="handleSubmit(event)">
+	<input type="hidden" name="id" value="@Model.monthly_expenses.Id" />
+	<!-- Store the account ID in a hidden input field -->
+	<table>
+		<tr>
+			<td>Id</td>
+			<td>@Model.monthly_expenses.Id</td>
+		</tr>
+		
+		<tr>
+			<td>Expense</td>
+			<td>@Model.monthly_expenses.Expense</td>
+		</tr>
+	
+	</table>
+	<p></p>
+	<!-- Display a button for submitting the form to delete the account -->
+	<input type="submit" value="Delete" class="btn btn-danger" />
+
+
+</form>

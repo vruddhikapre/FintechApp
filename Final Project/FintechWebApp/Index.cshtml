@@ -1,0 +1,45 @@
+﻿@page
+@model FintechWebApp.Pages.FintechApp.IndexModel
+@{
+}
+
+<!-- HTML page for List of Fintech Accounts -->
+<br>
+<h2> List of All Accounts </h2>
+
+<a class='btn btn-primary btn-sm' href='/FintechApp/Create'> New Account</a>
+<table class="table">
+	<thead>
+		<tr>
+			<th>Firstname</th>
+			<th>Lastname</th>
+			<th>Address</th>
+			<th>Email</th>
+			<th>Contact</th>
+			<th>Age</th>
+			<th>SSN</th>
+			<th>Balance</th>
+			<th></th>
+		</tr>
+	</thead>
+	<tbody>
+		@foreach (var item in Model.fintech)
+		{
+			<tr>
+				<td> @item.Firstname</td>
+				<td> @item.Lastname</td>
+				<td> @item.Address</td>
+				<td> @item.Email</td>
+				<td> @item.Contact</td>
+				<td> @item.Age</td>
+				<td> @item.SSN</td>
+				<td> @item.Balance</td>
+
+				<td>
+					<a class="btn btn-primary btn-sm" href="/FintechApp/Edit?id=@item.Id">Edit</a>
+					<a class="btn btn-danger btn-sm" href="/FintechApp/Delete?id=@item.Id">Delete</a>
+				</td>
+			</tr>
+		}
+	</tbody>
+</table>

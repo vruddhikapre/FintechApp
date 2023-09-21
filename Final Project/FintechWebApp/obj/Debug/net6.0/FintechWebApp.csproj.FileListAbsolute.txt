@@ -1,0 +1,250 @@
+C:\Users\Vruddhi\Desktop\ACS_567_HWK\HW\FintechWebApp\bin\Debug\net6.0\HW.deps.json
+C:\Users\Vruddhi\Desktop\ACS_567_HWK\HW\FintechWebApp\bin\Debug\net6.0\HW.runtimeconfig.json
+C:\Users\Vruddhi\Desktop\ACS_567_HWK\HW\FintechWebApp\bin\Debug\net6.0\HW.exe
+C:\Users\Vruddhi\Desktop\ACS_567_HWK\HW\FintechWebApp\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Vruddhi\Desktop\ACS_567_HWK\HW\FintechWebApp\bin\Debug\net6.0\appsettings.json
+C:\Users\Vruddhi\Desktop\ACS_567_HWK\HW\FintechWebApp\bin\Debug\net6.0\FintechWebApp.staticwebassets.runtime.json
+C:\Users\Vruddhi\Desktop\ACS_567_HWK\HW\FintechWebApp\bin\Debug\net6.0\FintechWebApp.exe
+C:\Users\Vruddhi\Desktop\ACS_567_HWK\HW\FintechWebApp\bin\Debug\net6.0\FintechWebApp.deps.json
+C:\Users\Vruddhi\Desktop\ACS_567_HWK\HW\FintechWebApp\bin\Debug\net6.0\FintechWebApp.runtimeconfig.json
+C:\Users\Vruddhi\Desktop\ACS_567_HWK\HW\FintechWebApp\bin\Debug\net6.0\FintechWebApp.dll
+C:\Users\Vruddhi\Desktop\ACS_567_HWK\HW\FintechWebApp\bin\Debug\net6.0\FintechWebApp.pdb
+C:\Users\Vruddhi\Desktop\ACS_567_HWK\HW\FintechWebApp\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\Vruddhi\Desktop\ACS_567_HWK\HW\FintechWebApp\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Vruddhi\Desktop\ACS_567_HWK\HW\FintechWebApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Vruddhi\Desktop\ACS_567_HWK\HW\FintechWebApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Vruddhi\Desktop\ACS_567_HWK\HW\FintechWebApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Vruddhi\Desktop\ACS_567_HWK\HW\FintechWebApp\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Vruddhi\Desktop\ACS_567_HWK\HW\FintechWebApp\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Vruddhi\Desktop\ACS_567_HWK\HW\FintechWebApp\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\Vruddhi\Desktop\ACS_567_HWK\HW\FintechWebApp\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Vruddhi\Desktop\ACS_567_HWK\HW\FintechWebApp\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Vruddhi\Desktop\ACS_567_HWK\HW\FintechWebApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Vruddhi\Desktop\ACS_567_HWK\HW\FintechWebApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Vruddhi\Desktop\ACS_567_HWK\HW\FintechWebApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Vruddhi\Desktop\ACS_567_HWK\HW\FintechWebApp\bin\Debug\net6.0\HW.dll
+C:\Users\Vruddhi\Desktop\ACS_567_HWK\HW\FintechWebApp\bin\Debug\net6.0\HW.pdb
+C:\Users\Vruddhi\Desktop\ACS_567_HWK\HW\FintechWebApp\obj\Debug\net6.0\FintechWebApp.csproj.AssemblyReference.cache
+C:\Users\Vruddhi\Desktop\ACS_567_HWK\HW\FintechWebApp\obj\Debug\net6.0\FintechWebApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vruddhi\Desktop\ACS_567_HWK\HW\FintechWebApp\obj\Debug\net6.0\FintechWebApp.AssemblyInfoInputs.cache
+C:\Users\Vruddhi\Desktop\ACS_567_HWK\HW\FintechWebApp\obj\Debug\net6.0\FintechWebApp.AssemblyInfo.cs
+C:\Users\Vruddhi\Desktop\ACS_567_HWK\HW\FintechWebApp\obj\Debug\net6.0\FintechWebApp.csproj.CoreCompileInputs.cache
+C:\Users\Vruddhi\Desktop\ACS_567_HWK\HW\FintechWebApp\obj\Debug\net6.0\FintechWebApp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Vruddhi\Desktop\ACS_567_HWK\HW\FintechWebApp\obj\Debug\net6.0\FintechWebApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Vruddhi\Desktop\ACS_567_HWK\HW\FintechWebApp\obj\Debug\net6.0\FintechWebApp.RazorAssemblyInfo.cache
+C:\Users\Vruddhi\Desktop\ACS_567_HWK\HW\FintechWebApp\obj\Debug\net6.0\FintechWebApp.RazorAssemblyInfo.cs
+C:\Users\Vruddhi\Desktop\ACS_567_HWK\HW\FintechWebApp\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Vruddhi\Desktop\ACS_567_HWK\HW\FintechWebApp\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Vruddhi\Desktop\ACS_567_HWK\HW\FintechWebApp\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Vruddhi\Desktop\ACS_567_HWK\HW\FintechWebApp\obj\Debug\net6.0\scopedcss\bundle\FintechWebApp.styles.css
+C:\Users\Vruddhi\Desktop\ACS_567_HWK\HW\FintechWebApp\obj\Debug\net6.0\scopedcss\projectbundle\FintechWebApp.bundle.scp.css
+C:\Users\Vruddhi\Desktop\ACS_567_HWK\HW\FintechWebApp\obj\Debug\net6.0\FintechWebApp.csproj.CopyComplete
+C:\Users\Vruddhi\Desktop\ACS_567_HWK\HW\FintechWebApp\obj\Debug\net6.0\FintechWebApp.dll
+C:\Users\Vruddhi\Desktop\ACS_567_HWK\HW\FintechWebApp\obj\Debug\net6.0\refint\FintechWebApp.dll
+C:\Users\Vruddhi\Desktop\ACS_567_HWK\HW\FintechWebApp\obj\Debug\net6.0\FintechWebApp.pdb
+C:\Users\Vruddhi\Desktop\ACS_567_HWK\HW\FintechWebApp\obj\Debug\net6.0\FintechWebApp.genruntimeconfig.cache
+C:\Users\Vruddhi\Desktop\ACS_567_HWK\HW\FintechWebApp\obj\Debug\net6.0\ref\FintechWebApp.dll
+D:\HW-front\HW\FintechWebApp\bin\Debug\net6.0\appsettings.Development.json
+D:\HW-front\HW\FintechWebApp\bin\Debug\net6.0\appsettings.json
+D:\HW-front\HW\FintechWebApp\bin\Debug\net6.0\HW.deps.json
+D:\HW-front\HW\FintechWebApp\bin\Debug\net6.0\HW.runtimeconfig.json
+D:\HW-front\HW\FintechWebApp\bin\Debug\net6.0\HW.exe
+D:\HW-front\HW\FintechWebApp\bin\Debug\net6.0\FintechWebApp.staticwebassets.runtime.json
+D:\HW-front\HW\FintechWebApp\bin\Debug\net6.0\FintechWebApp.exe
+D:\HW-front\HW\FintechWebApp\bin\Debug\net6.0\FintechWebApp.deps.json
+D:\HW-front\HW\FintechWebApp\bin\Debug\net6.0\FintechWebApp.runtimeconfig.json
+D:\HW-front\HW\FintechWebApp\bin\Debug\net6.0\FintechWebApp.dll
+D:\HW-front\HW\FintechWebApp\bin\Debug\net6.0\FintechWebApp.pdb
+D:\HW-front\HW\FintechWebApp\bin\Debug\net6.0\AutoMapper.dll
+D:\HW-front\HW\FintechWebApp\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\HW-front\HW\FintechWebApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\HW-front\HW\FintechWebApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\HW-front\HW\FintechWebApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\HW-front\HW\FintechWebApp\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\HW-front\HW\FintechWebApp\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\HW-front\HW\FintechWebApp\bin\Debug\net6.0\MySqlConnector.dll
+D:\HW-front\HW\FintechWebApp\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\HW-front\HW\FintechWebApp\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\HW-front\HW\FintechWebApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\HW-front\HW\FintechWebApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\HW-front\HW\FintechWebApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\HW-front\HW\FintechWebApp\bin\Debug\net6.0\HW.dll
+D:\HW-front\HW\FintechWebApp\bin\Debug\net6.0\HW.pdb
+D:\HW-front\HW\FintechWebApp\obj\Debug\net6.0\FintechWebApp.csproj.AssemblyReference.cache
+D:\HW-front\HW\FintechWebApp\obj\Debug\net6.0\FintechWebApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\HW-front\HW\FintechWebApp\obj\Debug\net6.0\FintechWebApp.AssemblyInfoInputs.cache
+D:\HW-front\HW\FintechWebApp\obj\Debug\net6.0\FintechWebApp.AssemblyInfo.cs
+D:\HW-front\HW\FintechWebApp\obj\Debug\net6.0\FintechWebApp.csproj.CoreCompileInputs.cache
+D:\HW-front\HW\FintechWebApp\obj\Debug\net6.0\FintechWebApp.MvcApplicationPartsAssemblyInfo.cs
+D:\HW-front\HW\FintechWebApp\obj\Debug\net6.0\FintechWebApp.MvcApplicationPartsAssemblyInfo.cache
+D:\HW-front\HW\FintechWebApp\obj\Debug\net6.0\FintechWebApp.RazorAssemblyInfo.cache
+D:\HW-front\HW\FintechWebApp\obj\Debug\net6.0\FintechWebApp.RazorAssemblyInfo.cs
+D:\HW-front\HW\FintechWebApp\obj\Debug\net6.0\staticwebassets\msbuild.FintechWebApp.Microsoft.AspNetCore.StaticWebAssets.props
+D:\HW-front\HW\FintechWebApp\obj\Debug\net6.0\staticwebassets\msbuild.build.FintechWebApp.props
+D:\HW-front\HW\FintechWebApp\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.FintechWebApp.props
+D:\HW-front\HW\FintechWebApp\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.FintechWebApp.props
+D:\HW-front\HW\FintechWebApp\obj\Debug\net6.0\staticwebassets.pack.json
+D:\HW-front\HW\FintechWebApp\obj\Debug\net6.0\staticwebassets.build.json
+D:\HW-front\HW\FintechWebApp\obj\Debug\net6.0\staticwebassets.development.json
+D:\HW-front\HW\FintechWebApp\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+D:\HW-front\HW\FintechWebApp\obj\Debug\net6.0\scopedcss\bundle\FintechWebApp.styles.css
+D:\HW-front\HW\FintechWebApp\obj\Debug\net6.0\scopedcss\projectbundle\FintechWebApp.bundle.scp.css
+D:\HW-front\HW\FintechWebApp\obj\Debug\net6.0\FintechWebApp.csproj.CopyComplete
+D:\HW-front\HW\FintechWebApp\obj\Debug\net6.0\FintechWebApp.dll
+D:\HW-front\HW\FintechWebApp\obj\Debug\net6.0\refint\FintechWebApp.dll
+D:\HW-front\HW\FintechWebApp\obj\Debug\net6.0\FintechWebApp.pdb
+D:\HW-front\HW\FintechWebApp\obj\Debug\net6.0\FintechWebApp.genruntimeconfig.cache
+D:\HW-front\HW\FintechWebApp\obj\Debug\net6.0\ref\FintechWebApp.dll
+D:\SPM-Apr\ACS_567_PW_G8\HW-front\HW\FintechWebApp\bin\Debug\net6.0\appsettings.Development.json
+D:\SPM-Apr\ACS_567_PW_G8\HW-front\HW\FintechWebApp\bin\Debug\net6.0\appsettings.json
+D:\SPM-Apr\ACS_567_PW_G8\HW-front\HW\FintechWebApp\bin\Debug\net6.0\HW.deps.json
+D:\SPM-Apr\ACS_567_PW_G8\HW-front\HW\FintechWebApp\bin\Debug\net6.0\HW.runtimeconfig.json
+D:\SPM-Apr\ACS_567_PW_G8\HW-front\HW\FintechWebApp\bin\Debug\net6.0\HW.exe
+D:\SPM-Apr\ACS_567_PW_G8\HW-front\HW\FintechWebApp\bin\Debug\net6.0\FintechWebApp.staticwebassets.runtime.json
+D:\SPM-Apr\ACS_567_PW_G8\HW-front\HW\FintechWebApp\bin\Debug\net6.0\FintechWebApp.exe
+D:\SPM-Apr\ACS_567_PW_G8\HW-front\HW\FintechWebApp\bin\Debug\net6.0\FintechWebApp.deps.json
+D:\SPM-Apr\ACS_567_PW_G8\HW-front\HW\FintechWebApp\bin\Debug\net6.0\FintechWebApp.runtimeconfig.json
+D:\SPM-Apr\ACS_567_PW_G8\HW-front\HW\FintechWebApp\bin\Debug\net6.0\FintechWebApp.dll
+D:\SPM-Apr\ACS_567_PW_G8\HW-front\HW\FintechWebApp\bin\Debug\net6.0\FintechWebApp.pdb
+D:\SPM-Apr\ACS_567_PW_G8\HW-front\HW\FintechWebApp\bin\Debug\net6.0\AutoMapper.dll
+D:\SPM-Apr\ACS_567_PW_G8\HW-front\HW\FintechWebApp\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\SPM-Apr\ACS_567_PW_G8\HW-front\HW\FintechWebApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\SPM-Apr\ACS_567_PW_G8\HW-front\HW\FintechWebApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\SPM-Apr\ACS_567_PW_G8\HW-front\HW\FintechWebApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\SPM-Apr\ACS_567_PW_G8\HW-front\HW\FintechWebApp\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\SPM-Apr\ACS_567_PW_G8\HW-front\HW\FintechWebApp\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\SPM-Apr\ACS_567_PW_G8\HW-front\HW\FintechWebApp\bin\Debug\net6.0\MySqlConnector.dll
+D:\SPM-Apr\ACS_567_PW_G8\HW-front\HW\FintechWebApp\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\SPM-Apr\ACS_567_PW_G8\HW-front\HW\FintechWebApp\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\SPM-Apr\ACS_567_PW_G8\HW-front\HW\FintechWebApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\SPM-Apr\ACS_567_PW_G8\HW-front\HW\FintechWebApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\SPM-Apr\ACS_567_PW_G8\HW-front\HW\FintechWebApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\SPM-Apr\ACS_567_PW_G8\HW-front\HW\FintechWebApp\bin\Debug\net6.0\HW.dll
+D:\SPM-Apr\ACS_567_PW_G8\HW-front\HW\FintechWebApp\bin\Debug\net6.0\HW.pdb
+D:\SPM-Apr\ACS_567_PW_G8\HW-front\HW\FintechWebApp\obj\Debug\net6.0\FintechWebApp.csproj.AssemblyReference.cache
+D:\SPM-Apr\ACS_567_PW_G8\HW-front\HW\FintechWebApp\obj\Debug\net6.0\FintechWebApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\SPM-Apr\ACS_567_PW_G8\HW-front\HW\FintechWebApp\obj\Debug\net6.0\FintechWebApp.AssemblyInfoInputs.cache
+D:\SPM-Apr\ACS_567_PW_G8\HW-front\HW\FintechWebApp\obj\Debug\net6.0\FintechWebApp.AssemblyInfo.cs
+D:\SPM-Apr\ACS_567_PW_G8\HW-front\HW\FintechWebApp\obj\Debug\net6.0\FintechWebApp.csproj.CoreCompileInputs.cache
+D:\SPM-Apr\ACS_567_PW_G8\HW-front\HW\FintechWebApp\obj\Debug\net6.0\FintechWebApp.MvcApplicationPartsAssemblyInfo.cs
+D:\SPM-Apr\ACS_567_PW_G8\HW-front\HW\FintechWebApp\obj\Debug\net6.0\FintechWebApp.MvcApplicationPartsAssemblyInfo.cache
+D:\SPM-Apr\ACS_567_PW_G8\HW-front\HW\FintechWebApp\obj\Debug\net6.0\FintechWebApp.RazorAssemblyInfo.cache
+D:\SPM-Apr\ACS_567_PW_G8\HW-front\HW\FintechWebApp\obj\Debug\net6.0\FintechWebApp.RazorAssemblyInfo.cs
+D:\SPM-Apr\ACS_567_PW_G8\HW-front\HW\FintechWebApp\obj\Debug\net6.0\staticwebassets\msbuild.FintechWebApp.Microsoft.AspNetCore.StaticWebAssets.props
+D:\SPM-Apr\ACS_567_PW_G8\HW-front\HW\FintechWebApp\obj\Debug\net6.0\staticwebassets\msbuild.build.FintechWebApp.props
+D:\SPM-Apr\ACS_567_PW_G8\HW-front\HW\FintechWebApp\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.FintechWebApp.props
+D:\SPM-Apr\ACS_567_PW_G8\HW-front\HW\FintechWebApp\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.FintechWebApp.props
+D:\SPM-Apr\ACS_567_PW_G8\HW-front\HW\FintechWebApp\obj\Debug\net6.0\staticwebassets.pack.json
+D:\SPM-Apr\ACS_567_PW_G8\HW-front\HW\FintechWebApp\obj\Debug\net6.0\staticwebassets.build.json
+D:\SPM-Apr\ACS_567_PW_G8\HW-front\HW\FintechWebApp\obj\Debug\net6.0\staticwebassets.development.json
+D:\SPM-Apr\ACS_567_PW_G8\HW-front\HW\FintechWebApp\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+D:\SPM-Apr\ACS_567_PW_G8\HW-front\HW\FintechWebApp\obj\Debug\net6.0\scopedcss\bundle\FintechWebApp.styles.css
+D:\SPM-Apr\ACS_567_PW_G8\HW-front\HW\FintechWebApp\obj\Debug\net6.0\scopedcss\projectbundle\FintechWebApp.bundle.scp.css
+D:\SPM-Apr\ACS_567_PW_G8\HW-front\HW\FintechWebApp\obj\Debug\net6.0\FintechWebApp.csproj.CopyComplete
+D:\SPM-Apr\ACS_567_PW_G8\HW-front\HW\FintechWebApp\obj\Debug\net6.0\FintechWebApp.dll
+D:\SPM-Apr\ACS_567_PW_G8\HW-front\HW\FintechWebApp\obj\Debug\net6.0\refint\FintechWebApp.dll
+D:\SPM-Apr\ACS_567_PW_G8\HW-front\HW\FintechWebApp\obj\Debug\net6.0\FintechWebApp.pdb
+D:\SPM-Apr\ACS_567_PW_G8\HW-front\HW\FintechWebApp\obj\Debug\net6.0\FintechWebApp.genruntimeconfig.cache
+D:\SPM-Apr\ACS_567_PW_G8\HW-front\HW\FintechWebApp\obj\Debug\net6.0\ref\FintechWebApp.dll
+D:\SPM-MidApr\ACS_567_PW_G8\HW-front\HW\FintechWebApp\bin\Debug\net6.0\appsettings.Development.json
+D:\SPM-MidApr\ACS_567_PW_G8\HW-front\HW\FintechWebApp\bin\Debug\net6.0\appsettings.json
+D:\SPM-MidApr\ACS_567_PW_G8\HW-front\HW\FintechWebApp\bin\Debug\net6.0\HW.deps.json
+D:\SPM-MidApr\ACS_567_PW_G8\HW-front\HW\FintechWebApp\bin\Debug\net6.0\HW.runtimeconfig.json
+D:\SPM-MidApr\ACS_567_PW_G8\HW-front\HW\FintechWebApp\bin\Debug\net6.0\HW.exe
+D:\SPM-MidApr\ACS_567_PW_G8\HW-front\HW\FintechWebApp\bin\Debug\net6.0\FintechWebApp.staticwebassets.runtime.json
+D:\SPM-MidApr\ACS_567_PW_G8\HW-front\HW\FintechWebApp\bin\Debug\net6.0\FintechWebApp.exe
+D:\SPM-MidApr\ACS_567_PW_G8\HW-front\HW\FintechWebApp\bin\Debug\net6.0\FintechWebApp.deps.json
+D:\SPM-MidApr\ACS_567_PW_G8\HW-front\HW\FintechWebApp\bin\Debug\net6.0\FintechWebApp.runtimeconfig.json
+D:\SPM-MidApr\ACS_567_PW_G8\HW-front\HW\FintechWebApp\bin\Debug\net6.0\FintechWebApp.dll
+D:\SPM-MidApr\ACS_567_PW_G8\HW-front\HW\FintechWebApp\bin\Debug\net6.0\FintechWebApp.pdb
+D:\SPM-MidApr\ACS_567_PW_G8\HW-front\HW\FintechWebApp\bin\Debug\net6.0\AutoMapper.dll
+D:\SPM-MidApr\ACS_567_PW_G8\HW-front\HW\FintechWebApp\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\SPM-MidApr\ACS_567_PW_G8\HW-front\HW\FintechWebApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\SPM-MidApr\ACS_567_PW_G8\HW-front\HW\FintechWebApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\SPM-MidApr\ACS_567_PW_G8\HW-front\HW\FintechWebApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\SPM-MidApr\ACS_567_PW_G8\HW-front\HW\FintechWebApp\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\SPM-MidApr\ACS_567_PW_G8\HW-front\HW\FintechWebApp\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\SPM-MidApr\ACS_567_PW_G8\HW-front\HW\FintechWebApp\bin\Debug\net6.0\MySqlConnector.dll
+D:\SPM-MidApr\ACS_567_PW_G8\HW-front\HW\FintechWebApp\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\SPM-MidApr\ACS_567_PW_G8\HW-front\HW\FintechWebApp\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\SPM-MidApr\ACS_567_PW_G8\HW-front\HW\FintechWebApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\SPM-MidApr\ACS_567_PW_G8\HW-front\HW\FintechWebApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\SPM-MidApr\ACS_567_PW_G8\HW-front\HW\FintechWebApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\SPM-MidApr\ACS_567_PW_G8\HW-front\HW\FintechWebApp\bin\Debug\net6.0\HW.dll
+D:\SPM-MidApr\ACS_567_PW_G8\HW-front\HW\FintechWebApp\bin\Debug\net6.0\HW.pdb
+D:\SPM-MidApr\ACS_567_PW_G8\HW-front\HW\FintechWebApp\obj\Debug\net6.0\FintechWebApp.csproj.AssemblyReference.cache
+D:\SPM-MidApr\ACS_567_PW_G8\HW-front\HW\FintechWebApp\obj\Debug\net6.0\FintechWebApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\SPM-MidApr\ACS_567_PW_G8\HW-front\HW\FintechWebApp\obj\Debug\net6.0\FintechWebApp.AssemblyInfoInputs.cache
+D:\SPM-MidApr\ACS_567_PW_G8\HW-front\HW\FintechWebApp\obj\Debug\net6.0\FintechWebApp.AssemblyInfo.cs
+D:\SPM-MidApr\ACS_567_PW_G8\HW-front\HW\FintechWebApp\obj\Debug\net6.0\FintechWebApp.csproj.CoreCompileInputs.cache
+D:\SPM-MidApr\ACS_567_PW_G8\HW-front\HW\FintechWebApp\obj\Debug\net6.0\FintechWebApp.MvcApplicationPartsAssemblyInfo.cs
+D:\SPM-MidApr\ACS_567_PW_G8\HW-front\HW\FintechWebApp\obj\Debug\net6.0\FintechWebApp.MvcApplicationPartsAssemblyInfo.cache
+D:\SPM-MidApr\ACS_567_PW_G8\HW-front\HW\FintechWebApp\obj\Debug\net6.0\FintechWebApp.RazorAssemblyInfo.cache
+D:\SPM-MidApr\ACS_567_PW_G8\HW-front\HW\FintechWebApp\obj\Debug\net6.0\FintechWebApp.RazorAssemblyInfo.cs
+D:\SPM-MidApr\ACS_567_PW_G8\HW-front\HW\FintechWebApp\obj\Debug\net6.0\staticwebassets\msbuild.FintechWebApp.Microsoft.AspNetCore.StaticWebAssets.props
+D:\SPM-MidApr\ACS_567_PW_G8\HW-front\HW\FintechWebApp\obj\Debug\net6.0\staticwebassets\msbuild.build.FintechWebApp.props
+D:\SPM-MidApr\ACS_567_PW_G8\HW-front\HW\FintechWebApp\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.FintechWebApp.props
+D:\SPM-MidApr\ACS_567_PW_G8\HW-front\HW\FintechWebApp\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.FintechWebApp.props
+D:\SPM-MidApr\ACS_567_PW_G8\HW-front\HW\FintechWebApp\obj\Debug\net6.0\staticwebassets.pack.json
+D:\SPM-MidApr\ACS_567_PW_G8\HW-front\HW\FintechWebApp\obj\Debug\net6.0\staticwebassets.build.json
+D:\SPM-MidApr\ACS_567_PW_G8\HW-front\HW\FintechWebApp\obj\Debug\net6.0\staticwebassets.development.json
+D:\SPM-MidApr\ACS_567_PW_G8\HW-front\HW\FintechWebApp\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+D:\SPM-MidApr\ACS_567_PW_G8\HW-front\HW\FintechWebApp\obj\Debug\net6.0\scopedcss\bundle\FintechWebApp.styles.css
+D:\SPM-MidApr\ACS_567_PW_G8\HW-front\HW\FintechWebApp\obj\Debug\net6.0\scopedcss\projectbundle\FintechWebApp.bundle.scp.css
+D:\SPM-MidApr\ACS_567_PW_G8\HW-front\HW\FintechWebApp\obj\Debug\net6.0\FintechWebApp.csproj.CopyComplete
+D:\SPM-MidApr\ACS_567_PW_G8\HW-front\HW\FintechWebApp\obj\Debug\net6.0\FintechWebApp.dll
+D:\SPM-MidApr\ACS_567_PW_G8\HW-front\HW\FintechWebApp\obj\Debug\net6.0\refint\FintechWebApp.dll
+D:\SPM-MidApr\ACS_567_PW_G8\HW-front\HW\FintechWebApp\obj\Debug\net6.0\FintechWebApp.pdb
+D:\SPM-MidApr\ACS_567_PW_G8\HW-front\HW\FintechWebApp\obj\Debug\net6.0\FintechWebApp.genruntimeconfig.cache
+D:\SPM-MidApr\ACS_567_PW_G8\HW-front\HW\FintechWebApp\obj\Debug\net6.0\ref\FintechWebApp.dll
+D:\SPM+FIN\ACS_567_PW_G8\Final Project\FintechWebApp\bin\Debug\net6.0\appsettings.Development.json
+D:\SPM+FIN\ACS_567_PW_G8\Final Project\FintechWebApp\bin\Debug\net6.0\appsettings.json
+D:\SPM+FIN\ACS_567_PW_G8\Final Project\FintechWebApp\bin\Debug\net6.0\HW.deps.json
+D:\SPM+FIN\ACS_567_PW_G8\Final Project\FintechWebApp\bin\Debug\net6.0\HW.runtimeconfig.json
+D:\SPM+FIN\ACS_567_PW_G8\Final Project\FintechWebApp\bin\Debug\net6.0\HW.exe
+D:\SPM+FIN\ACS_567_PW_G8\Final Project\FintechWebApp\bin\Debug\net6.0\FintechWebApp.staticwebassets.runtime.json
+D:\SPM+FIN\ACS_567_PW_G8\Final Project\FintechWebApp\bin\Debug\net6.0\FintechWebApp.exe
+D:\SPM+FIN\ACS_567_PW_G8\Final Project\FintechWebApp\bin\Debug\net6.0\FintechWebApp.deps.json
+D:\SPM+FIN\ACS_567_PW_G8\Final Project\FintechWebApp\bin\Debug\net6.0\FintechWebApp.runtimeconfig.json
+D:\SPM+FIN\ACS_567_PW_G8\Final Project\FintechWebApp\bin\Debug\net6.0\FintechWebApp.dll
+D:\SPM+FIN\ACS_567_PW_G8\Final Project\FintechWebApp\bin\Debug\net6.0\FintechWebApp.pdb
+D:\SPM+FIN\ACS_567_PW_G8\Final Project\FintechWebApp\bin\Debug\net6.0\AutoMapper.dll
+D:\SPM+FIN\ACS_567_PW_G8\Final Project\FintechWebApp\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\SPM+FIN\ACS_567_PW_G8\Final Project\FintechWebApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\SPM+FIN\ACS_567_PW_G8\Final Project\FintechWebApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\SPM+FIN\ACS_567_PW_G8\Final Project\FintechWebApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\SPM+FIN\ACS_567_PW_G8\Final Project\FintechWebApp\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\SPM+FIN\ACS_567_PW_G8\Final Project\FintechWebApp\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\SPM+FIN\ACS_567_PW_G8\Final Project\FintechWebApp\bin\Debug\net6.0\MySqlConnector.dll
+D:\SPM+FIN\ACS_567_PW_G8\Final Project\FintechWebApp\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\SPM+FIN\ACS_567_PW_G8\Final Project\FintechWebApp\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\SPM+FIN\ACS_567_PW_G8\Final Project\FintechWebApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\SPM+FIN\ACS_567_PW_G8\Final Project\FintechWebApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\SPM+FIN\ACS_567_PW_G8\Final Project\FintechWebApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\SPM+FIN\ACS_567_PW_G8\Final Project\FintechWebApp\bin\Debug\net6.0\HW.dll
+D:\SPM+FIN\ACS_567_PW_G8\Final Project\FintechWebApp\bin\Debug\net6.0\HW.pdb
+D:\SPM+FIN\ACS_567_PW_G8\Final Project\FintechWebApp\obj\Debug\net6.0\FintechWebApp.csproj.AssemblyReference.cache
+D:\SPM+FIN\ACS_567_PW_G8\Final Project\FintechWebApp\obj\Debug\net6.0\FintechWebApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\SPM+FIN\ACS_567_PW_G8\Final Project\FintechWebApp\obj\Debug\net6.0\FintechWebApp.AssemblyInfoInputs.cache
+D:\SPM+FIN\ACS_567_PW_G8\Final Project\FintechWebApp\obj\Debug\net6.0\FintechWebApp.AssemblyInfo.cs
+D:\SPM+FIN\ACS_567_PW_G8\Final Project\FintechWebApp\obj\Debug\net6.0\FintechWebApp.csproj.CoreCompileInputs.cache
+D:\SPM+FIN\ACS_567_PW_G8\Final Project\FintechWebApp\obj\Debug\net6.0\FintechWebApp.MvcApplicationPartsAssemblyInfo.cs
+D:\SPM+FIN\ACS_567_PW_G8\Final Project\FintechWebApp\obj\Debug\net6.0\FintechWebApp.MvcApplicationPartsAssemblyInfo.cache
+D:\SPM+FIN\ACS_567_PW_G8\Final Project\FintechWebApp\obj\Debug\net6.0\FintechWebApp.RazorAssemblyInfo.cache
+D:\SPM+FIN\ACS_567_PW_G8\Final Project\FintechWebApp\obj\Debug\net6.0\FintechWebApp.RazorAssemblyInfo.cs
+D:\SPM+FIN\ACS_567_PW_G8\Final Project\FintechWebApp\obj\Debug\net6.0\staticwebassets\msbuild.FintechWebApp.Microsoft.AspNetCore.StaticWebAssets.props
+D:\SPM+FIN\ACS_567_PW_G8\Final Project\FintechWebApp\obj\Debug\net6.0\staticwebassets\msbuild.build.FintechWebApp.props
+D:\SPM+FIN\ACS_567_PW_G8\Final Project\FintechWebApp\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.FintechWebApp.props
+D:\SPM+FIN\ACS_567_PW_G8\Final Project\FintechWebApp\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.FintechWebApp.props
+D:\SPM+FIN\ACS_567_PW_G8\Final Project\FintechWebApp\obj\Debug\net6.0\staticwebassets.pack.json
+D:\SPM+FIN\ACS_567_PW_G8\Final Project\FintechWebApp\obj\Debug\net6.0\staticwebassets.build.json
+D:\SPM+FIN\ACS_567_PW_G8\Final Project\FintechWebApp\obj\Debug\net6.0\staticwebassets.development.json
+D:\SPM+FIN\ACS_567_PW_G8\Final Project\FintechWebApp\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+D:\SPM+FIN\ACS_567_PW_G8\Final Project\FintechWebApp\obj\Debug\net6.0\scopedcss\bundle\FintechWebApp.styles.css
+D:\SPM+FIN\ACS_567_PW_G8\Final Project\FintechWebApp\obj\Debug\net6.0\scopedcss\projectbundle\FintechWebApp.bundle.scp.css
+D:\SPM+FIN\ACS_567_PW_G8\Final Project\FintechWebApp\obj\Debug\net6.0\FintechWebApp.csproj.CopyComplete
+D:\SPM+FIN\ACS_567_PW_G8\Final Project\FintechWebApp\obj\Debug\net6.0\FintechWebApp.dll
+D:\SPM+FIN\ACS_567_PW_G8\Final Project\FintechWebApp\obj\Debug\net6.0\refint\FintechWebApp.dll
+D:\SPM+FIN\ACS_567_PW_G8\Final Project\FintechWebApp\obj\Debug\net6.0\FintechWebApp.pdb
+D:\SPM+FIN\ACS_567_PW_G8\Final Project\FintechWebApp\obj\Debug\net6.0\FintechWebApp.genruntimeconfig.cache
+D:\SPM+FIN\ACS_567_PW_G8\Final Project\FintechWebApp\obj\Debug\net6.0\ref\FintechWebApp.dll

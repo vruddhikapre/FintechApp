@@ -1,0 +1,67 @@
+﻿@page
+@model FintechWebApp.Pages.FintechApp.CreateModel
+@{
+}
+
+<!-- HTML page for create Fintech Account -->
+<br>
+<h2>Create Account</h2>
+
+@if (@Model.errorMessage.Length > 0)
+{
+	<!-- Display error message if there is any -->
+	<div>@Model.errorMessage</div>
+}
+
+<form method="POST" onsubmit="handleSubmit(event) ">
+	<!-- Table to input account details -->
+	<table>
+		<tr>
+			<td>Firstname</td>
+			<td><input type="text" name="firstname" value="@Model.fintech.Firstname"></td>
+		</tr>
+		<tr>
+			<td>Lastname</td>
+			<td><input type="text" name="lastname" value="@Model.fintech.Lastname"></td>
+		</tr>
+		<tr>
+			<td>Address</td>
+			<td><input type="text" name="address" value="@Model.fintech.Address"></td>
+		</tr>
+		<tr>
+			<td>Email</td>
+			<td><input type="text" name="email" value="@Model.fintech.Email"></td>
+		</tr>
+		<tr>
+			<td>Contact</td>
+			<td><input type="text" name="contact" value="@Model.fintech.Contact"></td>
+		</tr>
+		<tr>
+			<td>Age</td>
+			<td><input type="text" name="age" value="@Model.fintech.Age"></td>
+		</tr>
+		<tr>
+			<td>SSN</td>
+			<td><input type="text" name="ssn" value="@Model.fintech.SSN"></td>
+		</tr>
+		<tr>
+			<td>Balance (in $)</td>
+			<td><input type="text" name="balance" value="@Model.fintech.Balance"></td>
+		</tr>
+		
+	</table>
+	<p></p>
+
+	@if (Model.successMessage.Length > 0)
+	{
+		<div name="successMessage">@Model.successMessage</div>
+	}
+	<input type="submit" value="Add" class="btn btn-primary" />
+</form>
+@if (!string.IsNullOrEmpty(Model.successMessage))
+{
+	<div class="alert alert-success" role="alert">
+		@Model.successMessage
+	</div>
+}
+</div>

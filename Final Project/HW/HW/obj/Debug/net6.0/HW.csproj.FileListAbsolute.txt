@@ -1,0 +1,210 @@
+C:\Users\Vruddhi\Desktop\ACS_567_HWK\HW\HW\HW\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Vruddhi\Desktop\ACS_567_HWK\HW\HW\HW\bin\Debug\net6.0\appsettings.json
+C:\Users\Vruddhi\Desktop\ACS_567_HWK\HW\HW\HW\bin\Debug\net6.0\HW.exe
+C:\Users\Vruddhi\Desktop\ACS_567_HWK\HW\HW\HW\bin\Debug\net6.0\HW.deps.json
+C:\Users\Vruddhi\Desktop\ACS_567_HWK\HW\HW\HW\bin\Debug\net6.0\HW.runtimeconfig.json
+C:\Users\Vruddhi\Desktop\ACS_567_HWK\HW\HW\HW\bin\Debug\net6.0\HW.dll
+C:\Users\Vruddhi\Desktop\ACS_567_HWK\HW\HW\HW\bin\Debug\net6.0\HW.pdb
+C:\Users\Vruddhi\Desktop\ACS_567_HWK\HW\HW\HW\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\Vruddhi\Desktop\ACS_567_HWK\HW\HW\HW\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Vruddhi\Desktop\ACS_567_HWK\HW\HW\HW\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Vruddhi\Desktop\ACS_567_HWK\HW\HW\HW\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Vruddhi\Desktop\ACS_567_HWK\HW\HW\HW\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Vruddhi\Desktop\ACS_567_HWK\HW\HW\HW\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Vruddhi\Desktop\ACS_567_HWK\HW\HW\HW\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Vruddhi\Desktop\ACS_567_HWK\HW\HW\HW\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Vruddhi\Desktop\ACS_567_HWK\HW\HW\HW\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Vruddhi\Desktop\ACS_567_HWK\HW\HW\HW\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\Vruddhi\Desktop\ACS_567_HWK\HW\HW\HW\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Vruddhi\Desktop\ACS_567_HWK\HW\HW\HW\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Vruddhi\Desktop\ACS_567_HWK\HW\HW\HW\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Vruddhi\Desktop\ACS_567_HWK\HW\HW\HW\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Vruddhi\Desktop\ACS_567_HWK\HW\HW\HW\obj\Debug\net6.0\HW.csproj.AssemblyReference.cache
+C:\Users\Vruddhi\Desktop\ACS_567_HWK\HW\HW\HW\obj\Debug\net6.0\HW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vruddhi\Desktop\ACS_567_HWK\HW\HW\HW\obj\Debug\net6.0\HW.AssemblyInfoInputs.cache
+C:\Users\Vruddhi\Desktop\ACS_567_HWK\HW\HW\HW\obj\Debug\net6.0\HW.AssemblyInfo.cs
+C:\Users\Vruddhi\Desktop\ACS_567_HWK\HW\HW\HW\obj\Debug\net6.0\HW.csproj.CoreCompileInputs.cache
+C:\Users\Vruddhi\Desktop\ACS_567_HWK\HW\HW\HW\obj\Debug\net6.0\HW.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Vruddhi\Desktop\ACS_567_HWK\HW\HW\HW\obj\Debug\net6.0\HW.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Vruddhi\Desktop\ACS_567_HWK\HW\HW\HW\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Vruddhi\Desktop\ACS_567_HWK\HW\HW\HW\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Vruddhi\Desktop\ACS_567_HWK\HW\HW\HW\obj\Debug\net6.0\scopedcss\bundle\HW.styles.css
+C:\Users\Vruddhi\Desktop\ACS_567_HWK\HW\HW\HW\obj\Debug\net6.0\HW.csproj.CopyComplete
+C:\Users\Vruddhi\Desktop\ACS_567_HWK\HW\HW\HW\obj\Debug\net6.0\HW.dll
+C:\Users\Vruddhi\Desktop\ACS_567_HWK\HW\HW\HW\obj\Debug\net6.0\refint\HW.dll
+C:\Users\Vruddhi\Desktop\ACS_567_HWK\HW\HW\HW\obj\Debug\net6.0\HW.pdb
+C:\Users\Vruddhi\Desktop\ACS_567_HWK\HW\HW\HW\obj\Debug\net6.0\HW.genruntimeconfig.cache
+C:\Users\Vruddhi\Desktop\ACS_567_HWK\HW\HW\HW\obj\Debug\net6.0\ref\HW.dll
+C:\Users\Vruddhi\Desktop\ACS_567_HWK\HW\HW\HW\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\HW-front\HW\HW\HW\bin\Debug\net6.0\appsettings.Development.json
+D:\HW-front\HW\HW\HW\bin\Debug\net6.0\appsettings.json
+D:\HW-front\HW\HW\HW\bin\Debug\net6.0\HW.exe
+D:\HW-front\HW\HW\HW\bin\Debug\net6.0\HW.deps.json
+D:\HW-front\HW\HW\HW\bin\Debug\net6.0\HW.runtimeconfig.json
+D:\HW-front\HW\HW\HW\bin\Debug\net6.0\HW.dll
+D:\HW-front\HW\HW\HW\bin\Debug\net6.0\HW.pdb
+D:\HW-front\HW\HW\HW\bin\Debug\net6.0\AutoMapper.dll
+D:\HW-front\HW\HW\HW\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\HW-front\HW\HW\HW\bin\Debug\net6.0\Humanizer.dll
+D:\HW-front\HW\HW\HW\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\HW-front\HW\HW\HW\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\HW-front\HW\HW\HW\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\HW-front\HW\HW\HW\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\HW-front\HW\HW\HW\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\HW-front\HW\HW\HW\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\HW-front\HW\HW\HW\bin\Debug\net6.0\MySqlConnector.dll
+D:\HW-front\HW\HW\HW\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\HW-front\HW\HW\HW\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\HW-front\HW\HW\HW\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\HW-front\HW\HW\HW\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\HW-front\HW\HW\HW\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\HW-front\HW\HW\HW\obj\Debug\net6.0\HW.csproj.AssemblyReference.cache
+D:\HW-front\HW\HW\HW\obj\Debug\net6.0\HW.GeneratedMSBuildEditorConfig.editorconfig
+D:\HW-front\HW\HW\HW\obj\Debug\net6.0\HW.AssemblyInfoInputs.cache
+D:\HW-front\HW\HW\HW\obj\Debug\net6.0\HW.AssemblyInfo.cs
+D:\HW-front\HW\HW\HW\obj\Debug\net6.0\HW.csproj.CoreCompileInputs.cache
+D:\HW-front\HW\HW\HW\obj\Debug\net6.0\HW.MvcApplicationPartsAssemblyInfo.cs
+D:\HW-front\HW\HW\HW\obj\Debug\net6.0\HW.MvcApplicationPartsAssemblyInfo.cache
+D:\HW-front\HW\HW\HW\obj\Debug\net6.0\staticwebassets\msbuild.HW.Microsoft.AspNetCore.StaticWebAssets.props
+D:\HW-front\HW\HW\HW\obj\Debug\net6.0\staticwebassets\msbuild.build.HW.props
+D:\HW-front\HW\HW\HW\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.HW.props
+D:\HW-front\HW\HW\HW\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.HW.props
+D:\HW-front\HW\HW\HW\obj\Debug\net6.0\staticwebassets.pack.json
+D:\HW-front\HW\HW\HW\obj\Debug\net6.0\staticwebassets.build.json
+D:\HW-front\HW\HW\HW\obj\Debug\net6.0\staticwebassets.development.json
+D:\HW-front\HW\HW\HW\obj\Debug\net6.0\scopedcss\bundle\HW.styles.css
+D:\HW-front\HW\HW\HW\obj\Debug\net6.0\HW.csproj.CopyComplete
+D:\HW-front\HW\HW\HW\obj\Debug\net6.0\HW.dll
+D:\HW-front\HW\HW\HW\obj\Debug\net6.0\refint\HW.dll
+D:\HW-front\HW\HW\HW\obj\Debug\net6.0\HW.pdb
+D:\HW-front\HW\HW\HW\obj\Debug\net6.0\HW.genruntimeconfig.cache
+D:\HW-front\HW\HW\HW\obj\Debug\net6.0\ref\HW.dll
+D:\SPM-Apr\ACS_567_PW_G8\HW-front\HW\HW\HW\bin\Debug\net6.0\appsettings.Development.json
+D:\SPM-Apr\ACS_567_PW_G8\HW-front\HW\HW\HW\bin\Debug\net6.0\appsettings.json
+D:\SPM-Apr\ACS_567_PW_G8\HW-front\HW\HW\HW\bin\Debug\net6.0\HW.exe
+D:\SPM-Apr\ACS_567_PW_G8\HW-front\HW\HW\HW\bin\Debug\net6.0\HW.deps.json
+D:\SPM-Apr\ACS_567_PW_G8\HW-front\HW\HW\HW\bin\Debug\net6.0\HW.runtimeconfig.json
+D:\SPM-Apr\ACS_567_PW_G8\HW-front\HW\HW\HW\bin\Debug\net6.0\HW.dll
+D:\SPM-Apr\ACS_567_PW_G8\HW-front\HW\HW\HW\bin\Debug\net6.0\HW.pdb
+D:\SPM-Apr\ACS_567_PW_G8\HW-front\HW\HW\HW\bin\Debug\net6.0\AutoMapper.dll
+D:\SPM-Apr\ACS_567_PW_G8\HW-front\HW\HW\HW\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\SPM-Apr\ACS_567_PW_G8\HW-front\HW\HW\HW\bin\Debug\net6.0\Humanizer.dll
+D:\SPM-Apr\ACS_567_PW_G8\HW-front\HW\HW\HW\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\SPM-Apr\ACS_567_PW_G8\HW-front\HW\HW\HW\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\SPM-Apr\ACS_567_PW_G8\HW-front\HW\HW\HW\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\SPM-Apr\ACS_567_PW_G8\HW-front\HW\HW\HW\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\SPM-Apr\ACS_567_PW_G8\HW-front\HW\HW\HW\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\SPM-Apr\ACS_567_PW_G8\HW-front\HW\HW\HW\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\SPM-Apr\ACS_567_PW_G8\HW-front\HW\HW\HW\bin\Debug\net6.0\MySqlConnector.dll
+D:\SPM-Apr\ACS_567_PW_G8\HW-front\HW\HW\HW\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\SPM-Apr\ACS_567_PW_G8\HW-front\HW\HW\HW\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\SPM-Apr\ACS_567_PW_G8\HW-front\HW\HW\HW\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\SPM-Apr\ACS_567_PW_G8\HW-front\HW\HW\HW\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\SPM-Apr\ACS_567_PW_G8\HW-front\HW\HW\HW\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\SPM-Apr\ACS_567_PW_G8\HW-front\HW\HW\HW\obj\Debug\net6.0\HW.csproj.AssemblyReference.cache
+D:\SPM-Apr\ACS_567_PW_G8\HW-front\HW\HW\HW\obj\Debug\net6.0\HW.GeneratedMSBuildEditorConfig.editorconfig
+D:\SPM-Apr\ACS_567_PW_G8\HW-front\HW\HW\HW\obj\Debug\net6.0\HW.AssemblyInfoInputs.cache
+D:\SPM-Apr\ACS_567_PW_G8\HW-front\HW\HW\HW\obj\Debug\net6.0\HW.AssemblyInfo.cs
+D:\SPM-Apr\ACS_567_PW_G8\HW-front\HW\HW\HW\obj\Debug\net6.0\HW.csproj.CoreCompileInputs.cache
+D:\SPM-Apr\ACS_567_PW_G8\HW-front\HW\HW\HW\obj\Debug\net6.0\HW.MvcApplicationPartsAssemblyInfo.cs
+D:\SPM-Apr\ACS_567_PW_G8\HW-front\HW\HW\HW\obj\Debug\net6.0\HW.MvcApplicationPartsAssemblyInfo.cache
+D:\SPM-Apr\ACS_567_PW_G8\HW-front\HW\HW\HW\obj\Debug\net6.0\staticwebassets\msbuild.HW.Microsoft.AspNetCore.StaticWebAssets.props
+D:\SPM-Apr\ACS_567_PW_G8\HW-front\HW\HW\HW\obj\Debug\net6.0\staticwebassets\msbuild.build.HW.props
+D:\SPM-Apr\ACS_567_PW_G8\HW-front\HW\HW\HW\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.HW.props
+D:\SPM-Apr\ACS_567_PW_G8\HW-front\HW\HW\HW\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.HW.props
+D:\SPM-Apr\ACS_567_PW_G8\HW-front\HW\HW\HW\obj\Debug\net6.0\staticwebassets.pack.json
+D:\SPM-Apr\ACS_567_PW_G8\HW-front\HW\HW\HW\obj\Debug\net6.0\staticwebassets.build.json
+D:\SPM-Apr\ACS_567_PW_G8\HW-front\HW\HW\HW\obj\Debug\net6.0\staticwebassets.development.json
+D:\SPM-Apr\ACS_567_PW_G8\HW-front\HW\HW\HW\obj\Debug\net6.0\scopedcss\bundle\HW.styles.css
+D:\SPM-Apr\ACS_567_PW_G8\HW-front\HW\HW\HW\obj\Debug\net6.0\HW.csproj.CopyComplete
+D:\SPM-Apr\ACS_567_PW_G8\HW-front\HW\HW\HW\obj\Debug\net6.0\HW.dll
+D:\SPM-Apr\ACS_567_PW_G8\HW-front\HW\HW\HW\obj\Debug\net6.0\refint\HW.dll
+D:\SPM-Apr\ACS_567_PW_G8\HW-front\HW\HW\HW\obj\Debug\net6.0\HW.pdb
+D:\SPM-Apr\ACS_567_PW_G8\HW-front\HW\HW\HW\obj\Debug\net6.0\HW.genruntimeconfig.cache
+D:\SPM-Apr\ACS_567_PW_G8\HW-front\HW\HW\HW\obj\Debug\net6.0\ref\HW.dll
+D:\SPM-MidApr\ACS_567_PW_G8\HW-front\HW\HW\HW\bin\Debug\net6.0\appsettings.Development.json
+D:\SPM-MidApr\ACS_567_PW_G8\HW-front\HW\HW\HW\bin\Debug\net6.0\appsettings.json
+D:\SPM-MidApr\ACS_567_PW_G8\HW-front\HW\HW\HW\bin\Debug\net6.0\HW.exe
+D:\SPM-MidApr\ACS_567_PW_G8\HW-front\HW\HW\HW\bin\Debug\net6.0\HW.deps.json
+D:\SPM-MidApr\ACS_567_PW_G8\HW-front\HW\HW\HW\bin\Debug\net6.0\HW.runtimeconfig.json
+D:\SPM-MidApr\ACS_567_PW_G8\HW-front\HW\HW\HW\bin\Debug\net6.0\HW.dll
+D:\SPM-MidApr\ACS_567_PW_G8\HW-front\HW\HW\HW\bin\Debug\net6.0\HW.pdb
+D:\SPM-MidApr\ACS_567_PW_G8\HW-front\HW\HW\HW\bin\Debug\net6.0\AutoMapper.dll
+D:\SPM-MidApr\ACS_567_PW_G8\HW-front\HW\HW\HW\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\SPM-MidApr\ACS_567_PW_G8\HW-front\HW\HW\HW\bin\Debug\net6.0\Humanizer.dll
+D:\SPM-MidApr\ACS_567_PW_G8\HW-front\HW\HW\HW\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\SPM-MidApr\ACS_567_PW_G8\HW-front\HW\HW\HW\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\SPM-MidApr\ACS_567_PW_G8\HW-front\HW\HW\HW\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\SPM-MidApr\ACS_567_PW_G8\HW-front\HW\HW\HW\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\SPM-MidApr\ACS_567_PW_G8\HW-front\HW\HW\HW\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\SPM-MidApr\ACS_567_PW_G8\HW-front\HW\HW\HW\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\SPM-MidApr\ACS_567_PW_G8\HW-front\HW\HW\HW\bin\Debug\net6.0\MySqlConnector.dll
+D:\SPM-MidApr\ACS_567_PW_G8\HW-front\HW\HW\HW\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\SPM-MidApr\ACS_567_PW_G8\HW-front\HW\HW\HW\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\SPM-MidApr\ACS_567_PW_G8\HW-front\HW\HW\HW\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\SPM-MidApr\ACS_567_PW_G8\HW-front\HW\HW\HW\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\SPM-MidApr\ACS_567_PW_G8\HW-front\HW\HW\HW\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\SPM-MidApr\ACS_567_PW_G8\HW-front\HW\HW\HW\obj\Debug\net6.0\HW.csproj.AssemblyReference.cache
+D:\SPM-MidApr\ACS_567_PW_G8\HW-front\HW\HW\HW\obj\Debug\net6.0\HW.GeneratedMSBuildEditorConfig.editorconfig
+D:\SPM-MidApr\ACS_567_PW_G8\HW-front\HW\HW\HW\obj\Debug\net6.0\HW.AssemblyInfoInputs.cache
+D:\SPM-MidApr\ACS_567_PW_G8\HW-front\HW\HW\HW\obj\Debug\net6.0\HW.AssemblyInfo.cs
+D:\SPM-MidApr\ACS_567_PW_G8\HW-front\HW\HW\HW\obj\Debug\net6.0\HW.csproj.CoreCompileInputs.cache
+D:\SPM-MidApr\ACS_567_PW_G8\HW-front\HW\HW\HW\obj\Debug\net6.0\HW.MvcApplicationPartsAssemblyInfo.cs
+D:\SPM-MidApr\ACS_567_PW_G8\HW-front\HW\HW\HW\obj\Debug\net6.0\HW.MvcApplicationPartsAssemblyInfo.cache
+D:\SPM-MidApr\ACS_567_PW_G8\HW-front\HW\HW\HW\obj\Debug\net6.0\staticwebassets\msbuild.HW.Microsoft.AspNetCore.StaticWebAssets.props
+D:\SPM-MidApr\ACS_567_PW_G8\HW-front\HW\HW\HW\obj\Debug\net6.0\staticwebassets\msbuild.build.HW.props
+D:\SPM-MidApr\ACS_567_PW_G8\HW-front\HW\HW\HW\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.HW.props
+D:\SPM-MidApr\ACS_567_PW_G8\HW-front\HW\HW\HW\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.HW.props
+D:\SPM-MidApr\ACS_567_PW_G8\HW-front\HW\HW\HW\obj\Debug\net6.0\staticwebassets.pack.json
+D:\SPM-MidApr\ACS_567_PW_G8\HW-front\HW\HW\HW\obj\Debug\net6.0\staticwebassets.build.json
+D:\SPM-MidApr\ACS_567_PW_G8\HW-front\HW\HW\HW\obj\Debug\net6.0\staticwebassets.development.json
+D:\SPM-MidApr\ACS_567_PW_G8\HW-front\HW\HW\HW\obj\Debug\net6.0\scopedcss\bundle\HW.styles.css
+D:\SPM-MidApr\ACS_567_PW_G8\HW-front\HW\HW\HW\obj\Debug\net6.0\HW.csproj.CopyComplete
+D:\SPM-MidApr\ACS_567_PW_G8\HW-front\HW\HW\HW\obj\Debug\net6.0\HW.dll
+D:\SPM-MidApr\ACS_567_PW_G8\HW-front\HW\HW\HW\obj\Debug\net6.0\refint\HW.dll
+D:\SPM-MidApr\ACS_567_PW_G8\HW-front\HW\HW\HW\obj\Debug\net6.0\HW.pdb
+D:\SPM-MidApr\ACS_567_PW_G8\HW-front\HW\HW\HW\obj\Debug\net6.0\HW.genruntimeconfig.cache
+D:\SPM-MidApr\ACS_567_PW_G8\HW-front\HW\HW\HW\obj\Debug\net6.0\ref\HW.dll
+D:\SPM+FIN\ACS_567_PW_G8\Final Project\HW\HW\bin\Debug\net6.0\appsettings.Development.json
+D:\SPM+FIN\ACS_567_PW_G8\Final Project\HW\HW\bin\Debug\net6.0\appsettings.json
+D:\SPM+FIN\ACS_567_PW_G8\Final Project\HW\HW\bin\Debug\net6.0\HW.exe
+D:\SPM+FIN\ACS_567_PW_G8\Final Project\HW\HW\bin\Debug\net6.0\HW.deps.json
+D:\SPM+FIN\ACS_567_PW_G8\Final Project\HW\HW\bin\Debug\net6.0\HW.runtimeconfig.json
+D:\SPM+FIN\ACS_567_PW_G8\Final Project\HW\HW\bin\Debug\net6.0\HW.dll
+D:\SPM+FIN\ACS_567_PW_G8\Final Project\HW\HW\bin\Debug\net6.0\HW.pdb
+D:\SPM+FIN\ACS_567_PW_G8\Final Project\HW\HW\bin\Debug\net6.0\AutoMapper.dll
+D:\SPM+FIN\ACS_567_PW_G8\Final Project\HW\HW\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\SPM+FIN\ACS_567_PW_G8\Final Project\HW\HW\bin\Debug\net6.0\Humanizer.dll
+D:\SPM+FIN\ACS_567_PW_G8\Final Project\HW\HW\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\SPM+FIN\ACS_567_PW_G8\Final Project\HW\HW\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\SPM+FIN\ACS_567_PW_G8\Final Project\HW\HW\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\SPM+FIN\ACS_567_PW_G8\Final Project\HW\HW\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\SPM+FIN\ACS_567_PW_G8\Final Project\HW\HW\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\SPM+FIN\ACS_567_PW_G8\Final Project\HW\HW\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\SPM+FIN\ACS_567_PW_G8\Final Project\HW\HW\bin\Debug\net6.0\MySqlConnector.dll
+D:\SPM+FIN\ACS_567_PW_G8\Final Project\HW\HW\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\SPM+FIN\ACS_567_PW_G8\Final Project\HW\HW\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\SPM+FIN\ACS_567_PW_G8\Final Project\HW\HW\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\SPM+FIN\ACS_567_PW_G8\Final Project\HW\HW\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\SPM+FIN\ACS_567_PW_G8\Final Project\HW\HW\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\SPM+FIN\ACS_567_PW_G8\Final Project\HW\HW\obj\Debug\net6.0\HW.csproj.AssemblyReference.cache
+D:\SPM+FIN\ACS_567_PW_G8\Final Project\HW\HW\obj\Debug\net6.0\HW.GeneratedMSBuildEditorConfig.editorconfig
+D:\SPM+FIN\ACS_567_PW_G8\Final Project\HW\HW\obj\Debug\net6.0\HW.AssemblyInfoInputs.cache
+D:\SPM+FIN\ACS_567_PW_G8\Final Project\HW\HW\obj\Debug\net6.0\HW.AssemblyInfo.cs
+D:\SPM+FIN\ACS_567_PW_G8\Final Project\HW\HW\obj\Debug\net6.0\HW.csproj.CoreCompileInputs.cache
+D:\SPM+FIN\ACS_567_PW_G8\Final Project\HW\HW\obj\Debug\net6.0\HW.MvcApplicationPartsAssemblyInfo.cs
+D:\SPM+FIN\ACS_567_PW_G8\Final Project\HW\HW\obj\Debug\net6.0\HW.MvcApplicationPartsAssemblyInfo.cache
+D:\SPM+FIN\ACS_567_PW_G8\Final Project\HW\HW\obj\Debug\net6.0\staticwebassets\msbuild.HW.Microsoft.AspNetCore.StaticWebAssets.props
+D:\SPM+FIN\ACS_567_PW_G8\Final Project\HW\HW\obj\Debug\net6.0\staticwebassets\msbuild.build.HW.props
+D:\SPM+FIN\ACS_567_PW_G8\Final Project\HW\HW\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.HW.props
+D:\SPM+FIN\ACS_567_PW_G8\Final Project\HW\HW\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.HW.props
+D:\SPM+FIN\ACS_567_PW_G8\Final Project\HW\HW\obj\Debug\net6.0\staticwebassets.pack.json
+D:\SPM+FIN\ACS_567_PW_G8\Final Project\HW\HW\obj\Debug\net6.0\staticwebassets.build.json
+D:\SPM+FIN\ACS_567_PW_G8\Final Project\HW\HW\obj\Debug\net6.0\staticwebassets.development.json
+D:\SPM+FIN\ACS_567_PW_G8\Final Project\HW\HW\obj\Debug\net6.0\scopedcss\bundle\HW.styles.css
+D:\SPM+FIN\ACS_567_PW_G8\Final Project\HW\HW\obj\Debug\net6.0\HW.csproj.CopyComplete
+D:\SPM+FIN\ACS_567_PW_G8\Final Project\HW\HW\obj\Debug\net6.0\HW.dll
+D:\SPM+FIN\ACS_567_PW_G8\Final Project\HW\HW\obj\Debug\net6.0\refint\HW.dll
+D:\SPM+FIN\ACS_567_PW_G8\Final Project\HW\HW\obj\Debug\net6.0\HW.pdb
+D:\SPM+FIN\ACS_567_PW_G8\Final Project\HW\HW\obj\Debug\net6.0\HW.genruntimeconfig.cache
+D:\SPM+FIN\ACS_567_PW_G8\Final Project\HW\HW\obj\Debug\net6.0\ref\HW.dll
